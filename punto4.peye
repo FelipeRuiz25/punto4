@@ -1,0 +1,33 @@
+
+/*	LENGUAJE DE PROGRAMACIÓN EXTENSIÓN .peye */
+
+/* HOLA profe :3 */
+
+/*Nota = 5.0; */
+
+CONST miconstantexd = "TODO" ENDCONST;
+
+VAR varint = 8123 ENDVAR;
+VAR vardoble = 81.23 ENDVAR;
+VAR mivariable = 'A' ENDVAR;
+
+VAR bool = SIKS ENDVAR;
+VAR bool2 = 3 > 2 ENDVAR;
+VAR bool3 = bool AND NOKS OR bool2 ENDVAR;
+
+FOR 31 IN varint TO 100 DO
+	WHILE NOKS DO
+		/**COMENTARIO RANDOM**/
+		IF bool3 THEN
+			VAR varint = 73 ENDVAR;
+			IF 3 < 5 THEN
+				CONST constante = "XD" ENDCONST;
+			ELIF 2 == 2 THEN
+				CONST constante = "XD2" ENDCONST;
+			ELSE
+				VAR var31 = NOKS ENDVAR;
+			ENDIF;
+		ENDIF;
+	ENDWHILE;
+ENDFOR;
+
